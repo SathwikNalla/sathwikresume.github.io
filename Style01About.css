@@ -1,0 +1,197 @@
+.resume-container {
+  min-height: 100vh;
+}
+.resume-resume {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 19px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.resume-shape {
+  top: -693px;
+  left: -27px;
+  width: 1342px;
+  height: 1621px;
+  position: absolute;
+}
+.resume-text {
+  top: 32px;
+  left: 1106px;
+  color: rgba(255, 255, 255, 1);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text02 {
+  top: 179px;
+  left: 98px;
+  color: rgba(255, 159, 28, 1);
+  width: 444px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 114.10000324249268%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text07 {
+  top: 317px;
+  left: 20px;
+  color: rgba(1, 22, 39, 1);
+  width: 660px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 300;
+  line-height: 226.09999179840088%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-navbarlinks {
+  top: 31px;
+  left: 542px;
+  width: 533px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.resume-text09 {
+  color: rgba(255, 255, 255, 1);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.resume-text11 {
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.resume-text13 {
+  left: 282px;
+  color: rgba(255, 255, 255, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.resume-text15 {
+  left: 444px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.resume-text17 {
+  left: 444px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.resume-rectangle2 {
+  top: 41px;
+  left: 77px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+}
+.resume-image1333033-feb-business9removebgpreview1 {
+  top: 135px;
+  left: 820px;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  border-color: transparent;
+}
